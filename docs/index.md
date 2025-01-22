@@ -3,41 +3,34 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: Pixiuの
-  text: 博客
-  tagline: 基于 VitePress 的个人前端导航页面模板
+  name: Marker's
+  text: 前端导航
+  tagline: 分享前端资源与个人项目
   image:
     src: /logo.png
-    alt: Z&Y
+    alt: Marker
   actions:
-    - text: 茂茂物语
-      link: https://notes.fe-mm.com
+    - text: 个人主页
+      link: https://github.com/zzyss-marker
     - text: 前端导航
       link: /nav/
       theme: alt
-    - text: mmPlayer
-      link: https://netease-music.fe-mm.com
-    - text: 测试页
-      link: /test
+    - text: 开源项目
+      link: https://github.com/zzyss-marker?tab=repositories
       theme: alt
+
 features:
-  - icon: 🐱
-
-    title: 猫咪日记
-
-    details: 记录与猫咪相处的点点滴滴<br />分享养猫经验和有趣故事
-
   - icon: 📚
+    title: 前端资源
+    details: 精选实用的前端开发资源<br />包含各类框架文档、工具与教程
+    
+  - icon: 🛠️
+    title: 开源项目
+    details: 开源的个人项目展示<br />包含实用工具、组件库等
 
-    title: 阅读笔记
-
-    details: 书籍阅读心得<br />分享阅读过程中的思考与感悟
-
-  - icon: 🌏
-
-    title: 旅行足迹
-
-    details: 记录旅行中的见闻<br />分享不同地方的文化与风景
+  - icon: 🎨
+    title: 设计资源
+    details: 优质的设计资源与灵感<br />帮助打造精美的用户界面
 ---
 <style>
 /*爱的魔力转圈圈*/

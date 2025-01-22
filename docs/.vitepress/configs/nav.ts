@@ -1,15 +1,14 @@
 import type { DefaultTheme } from 'vitepress'
 
 export const nav: DefaultTheme.Config['nav'] = [
+  { text: '首页', link: '/' },
   { text: '前端导航', link: '/nav/' },
-  { text: '茂茂主页', link: 'https://fe-mm.com' },
-  {
-    text: '茂茂物语',
-    link: 'https://notes.fe-mm.com',
+  { 
+    text: '个人项目',
+    items: [
+      { text: 'vue-admin-template', link: 'https://github.com/zzyss-marker/vue-admin-template' },
+      { text: 'vue3-components', link: 'https://github.com/zzyss-marker/vue3-components' }
+    ]
   },
-  { text: 'mmPlayer', link: 'https://netease-music.fe-mm.com' },
-  {
-    text: '油猴脚本',
-    link: 'https://github.com/maomao1996/tampermonkey-scripts',
-  },
+  { text: 'GitHub', link: 'https://github.com/zzyss-marker' }
 ]

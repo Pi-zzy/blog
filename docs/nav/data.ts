@@ -7,25 +7,43 @@ type NavData = {
 
 export const NAV_DATA: NavData[] = [
   {
+    title: '个人项目',
+    items: [
+      {
+        icon: '/icons/github.svg', 
+        title: 'vue-admin-template',
+        desc: '基于 Vue3 + TypeScript 的后台管理系统模板',
+        link: 'https://github.com/zzyss-marker/vue-admin-template'
+      },
+      {
+        icon: '/icons/github.svg',
+        title: 'vue3-components', 
+        desc: 'Vue3 组件库',
+        link: 'https://github.com/zzyss-marker/vue3-components'
+      }
+      // 可以继续添加你的其他项目
+    ]
+  },
+  {
     title: '常用工具',
     items: [
       {
         icon: 'https://caniuse.com/img/favicon-128.png',
         title: 'Can I use',
         desc: '前端 API 兼容性查询',
-        link: 'https://caniuse.com',
+        link: 'https://caniuse.com'
       },
       {
         icon: 'https://tinypng.com/images/apple-touch-icon.png',
         title: 'TinyPNG',
         desc: '在线图片压缩工具',
-        link: 'https://tinypng.com',
+        link: 'https://tinypng.com'
       },
       {
         icon: 'https://devtool.tech/logo.svg',
         title: '开发者武器库',
-        desc: '开发者武器库，做开发者最专业最好用的专业工具箱',
-        link: 'https://devtool.tech',
+        desc: '开发者工具集合',
+        link: 'https://devtool.tech'
       },
       {
         icon: 'https://tool.lu/favicon.ico',
@@ -602,5 +620,51 @@ export const NAV_DATA: NavData[] = [
         link: 'https://www.pixiv.net',
       },
     ],
+  },
+  {
+    title: '设计资源',
+    items: [
+      {
+        icon: 'https://www.figma.com/favicon.ico',
+        title: 'Figma',
+        desc: '专业的在线设计工具',
+        link: 'https://www.figma.com'
+      },
+      {
+        icon: 'https://dribbble.com/favicon.ico',
+        title: 'Dribbble',
+        desc: '设计灵感与素材',
+        link: 'https://dribbble.com'
+      },
+      {
+        icon: 'https://www.iconfont.cn/favicon.ico',
+        title: 'Iconfont',
+        desc: '阿里巴巴矢量图标库',
+        link: 'https://www.iconfont.cn'
+      }
+    ]
+  },
+  {
+    title: '学习资源',
+    items: [
+      {
+        icon: 'https://developer.mozilla.org/favicon-48x48.png',
+        title: 'MDN',
+        desc: 'Web 开发技术文档',
+        link: 'https://developer.mozilla.org'
+      },
+      {
+        icon: 'https://static.juejin.cn/favicon.ico',
+        title: '掘金',
+        desc: '开发者社区',
+        link: 'https://juejin.cn'
+      },
+      {
+        icon: 'https://github.com/favicon.ico',
+        title: 'GitHub',
+        desc: '开源代码托管平台',
+        link: 'https://github.com'
+      }
+    ]
   },
 ]
