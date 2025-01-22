@@ -3,34 +3,32 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: Marker's
-  text: 前端导航
-  tagline: 分享前端资源与个人项目
+  name: 貔貅的
+  text: 前端小站
+  tagline: 记录学习与成长的点点滴滴
   image:
     src: /logo.png
-    alt: Marker
+    alt: Pixiu
   actions:
-    - text: 个人主页
-      link: https://github.com/zzyss-marker
     - text: 前端导航
       link: /nav/
       theme: alt
-    - text: 开源项目
-      link: https://github.com/zzyss-marker?tab=repositories
+    - text: 学习笔记
+      link: /notes/
       theme: alt
 
 features:
-  - icon: 📚
-    title: 前端资源
-    details: 精选实用的前端开发资源<br />包含各类框架文档、工具与教程
+  - icon: 📝
+    title: 学习笔记
+    details: 记录前端学习过程中的心得体会<br />分享技术积累与实践经验
     
-  - icon: 🛠️
-    title: 开源项目
-    details: 开源的个人项目展示<br />包含实用工具、组件库等
+  - icon: 🧭
+    title: 资源导航
+    details: 精选实用的前端开发资源<br />包含各类框架文档与工具
 
-  - icon: 🎨
-    title: 设计资源
-    details: 优质的设计资源与灵感<br />帮助打造精美的用户界面
+  - icon: 📚
+    title: 知识积累
+    details: 体系化的知识整理<br />构建自己的前端知识库
 ---
 <style>
 /*爱的魔力转圈圈*/
