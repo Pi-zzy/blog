@@ -8,7 +8,7 @@ hero:
   tagline: 基于 VitePress 的个人前端导航页面模板
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: Z&Y
   actions:
     - text: 茂茂物语
       link: https://notes.fe-mm.com
@@ -39,7 +39,6 @@ features:
 
     details: 记录旅行中的见闻<br />分享不同地方的文化与风景
 ---
-
 <style>
 /*爱的魔力转圈圈*/
 .m-home-layout .image-src:hover {
