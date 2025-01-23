@@ -1,7 +1,5 @@
 <blockquote class="blockquote-center">所谓错过，不是错了，而是过了。</blockquote>
 
-<script type="text/javascript" src="/js/src/bai.js"></script>
-
 慢慢总结自己的一些经验，熟稔于心，每日诵读烙印于心，就好像Python的装饰器一般，每次做事之前过一遍经验，希望以后变成越来越优秀的人。
 
 # 学习
