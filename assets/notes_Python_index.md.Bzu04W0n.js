@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-CN" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>必知必会基础 | 貔貅的小站</title>
-    <meta name="description" content="记录学习笔记与前端开发心得">
-    <meta name="generator" content="VitePress v1.0.1">
-    <link rel="preload stylesheet" href="/blog/assets/style.B8vFm_dT.css" as="style">
-    
-    <script type="module" src="/blog/assets/app.Cs3Z-IUJ.js"></script>
-    <link rel="preload" href="/blog/assets/inter-roman-latin.Bu8hRsVA.woff2" as="font" type="font/woff2" crossorigin="">
-    <link rel="modulepreload" href="/blog/assets/chunks/framework.Dm2Aprm-.js">
-    <link rel="modulepreload" href="/blog/assets/chunks/theme.CJEwkM57.js">
-    <link rel="modulepreload" href="/blog/assets/notes_Python_index.md.Bzu04W0n.lean.js">
-    <meta name="theme-color" content="#3eaf7c">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <link rel="apple-touch-icon" href="/favicon.ico">
-    <link rel="mask-icon" href="/favicon.ico" color="#3eaf7c">
-    <meta name="msapplication-TileImage" content="/favicon.ico">
-    <meta name="msapplication-TileColor" content="#000000">
-    <script id="check-dark-mode">(()=>{const e=localStorage.getItem("vitepress-theme-appearance")||"auto",a=window.matchMedia("(prefers-color-scheme: dark)").matches;(!e||e==="auto"?a:e==="dark")&&document.documentElement.classList.add("dark")})();</script>
-    <script id="check-mac-os">document.documentElement.classList.toggle("mac",/Mac|iPhone|iPod|iPad/i.test(navigator.platform));</script>
-  </head>
-  <body>
-    <div id="app"><div class="Layout" data-v-7cb4efe6><!--[--><!--]--><!--[--><span tabindex="-1" data-v-e8152104></span><a href="#VPContent" class="VPSkipLink visually-hidden" data-v-e8152104> Skip to content </a><!--]--><!----><header class="VPNav" data-v-7cb4efe6 data-v-ea148854><div class="VPNavBar top" data-v-ea148854 data-v-0724480d><div class="wrapper" data-v-0724480d><div class="container" data-v-0724480d><div class="title" data-v-0724480d><div class="VPNavBarTitle" data-v-0724480d data-v-1f66e29d><a class="title" href="/blog/" data-v-1f66e29d><!--[--><!--]--><!--[--><img class="VPImage logo" src="/blog/logo.png" alt data-v-6e5ecf35><!--]--><span data-v-1f66e29d>貔貅的小站</span><!--[--><!--[--><!--[--><!--[--><img class="visitor" src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.vitepress-nav-template" onerror="this.style.display=&#39;none&#39;" data-v-124f1dab><!--]--><!--]--><!--]--><!--]--></a></div></div><div class="content" data-v-0724480d><div class="content-body" data-v-0724480d><!--[--><!--]--><div class="VPNavBarSearch search" data-v-0724480d><!----></div><nav aria-labelledby="main-nav-aria-label" class="VPNavBarMenu menu" data-v-0724480d data-v-05bd997a><span id="main-nav-aria-label" class="visually-hidden" data-v-05bd997a>Main Navigation</span><!--[--><!--[--><a class="VPLink link VPNavBarMenuLink" href="/blog/" tabindex="0" data-v-05bd997a data-v-20d3dafa><!--[--><span data-v-20d3dafa>首页</span><!--]--></a><!--]--><!--[--><a class="VPLink link VPNavBarMenuLink" href="/blog/nav/" tabindex="0" data-v-05bd997a data-v-20d3dafa><!--[--><span data-v-20d3dafa>前端导航</span><!--]--></a><!--]--><!--[--><div class="VPFlyout VPNavBarMenuGroup" data-v-05bd997a data-v-6dd6b830><button type="button" class="button" aria-haspopup="true" aria-expanded="false" data-v-6dd6b830><span class="text" data-v-6dd6b830><!----><span data-v-6dd6b830>学习笔记</span><span class="vpi-chevron-down text-icon" data-v-6dd6b830></span></span></button><div class="menu" data-v-6dd6b830><div class="VPMenu" data-v-6dd6b830 data-v-f7a45937><div class="items" data-v-f7a45937><!--[--><!--[--><div class="VPMenuLink" data-v-f7a45937 data-v-4174e14e><a class="VPLink link" href="/blog/notes/vue/" data-v-4174e14e><!--[-->Vue 系列<!--]--></a></div><!--]--><!--[--><div class="VPMenuLink" data-v-f7a45937 data-v-4174e14e><a class="VPLink link" href="/blog/notes/typescript/" data-v-4174e14e><!--[-->TypeScript 系列<!--]--></a></div><!--]--><!--[--><div class="VPMenuLink" data-v-f7a45937 data-v-4174e14e><a class="VPLink link" href="/blog/notes/performance/" data-v-4174e14e><!--[-->性能优化<!--]--></a></div><!--]--><!--[--><div class="VPMenuLink" data-v-f7a45937 data-v-4174e14e><a class="VPLink link" href="/blog/notes/engineering/" data-v-4174e14e><!--[-->工程化实践<!--]--></a></div><!--]--><!--]--></div><!--[--><!--]--></div></div></div><!--]--><!--]--></nav><!----><div class="VPNavBarAppearance appearance" data-v-0724480d data-v-632dc8b9><button class="VPSwitch VPSwitchAppearance" type="button" role="switch" title="切换到深色模式" aria-checked="false" data-v-632dc8b9 data-v-aefec510 data-v-45278f36><span class="check" data-v-45278f36><span class="icon" data-v-45278f36><!--[--><span class="vpi-sun sun" data-v-aefec510></span><span class="vpi-moon moon" data-v-aefec510></span><!--]--></span></span></button></div><div class="VPSocialLinks VPNavBarSocialLinks social-links" data-v-0724480d data-v-dedde283 data-v-4d9d7801><!--[--><!--]--></div><div class="VPFlyout VPNavBarExtra extra" data-v-0724480d data-v-51b1c64a data-v-6dd6b830><button type="button" class="button" aria-haspopup="true" aria-expanded="false" aria-label="extra navigation" data-v-6dd6b830><span class="vpi-more-horizontal icon" data-v-6dd6b830></span></button><div class="menu" data-v-6dd6b830><div class="VPMenu" data-v-6dd6b830 data-v-f7a45937><!----><!--[--><!--[--><!----><div class="group" data-v-51b1c64a><div class="item appearance" data-v-51b1c64a><p class="label" data-v-51b1c64a>主题</p><div class="appearance-action" data-v-51b1c64a><button class="VPSwitch VPSwitchAppearance" type="button" role="switch" title="切换到深色模式" aria-checked="false" data-v-51b1c64a data-v-aefec510 data-v-45278f36><span class="check" data-v-45278f36><span class="icon" data-v-45278f36><!--[--><span class="vpi-sun sun" data-v-aefec510></span><span class="vpi-moon moon" data-v-aefec510></span><!--]--></span></span></button></div></div></div><div class="group" data-v-51b1c64a><div class="item social-links" data-v-51b1c64a><div class="VPSocialLinks social-links-list" data-v-51b1c64a data-v-4d9d7801><!--[--><!--]--></div></div></div><!--]--><!--]--></div></div></div><!--[--><!--]--><button type="button" class="VPNavBarHamburger hamburger" aria-label="mobile navigation" aria-expanded="false" aria-controls="VPNavScreen" data-v-0724480d data-v-51c438c1><span class="container" data-v-51c438c1><span class="top" data-v-51c438c1></span><span class="middle" data-v-51c438c1></span><span class="bottom" data-v-51c438c1></span></span></button></div></div></div></div><div class="divider" data-v-0724480d><div class="divider-line" data-v-0724480d></div></div></div><!----></header><div class="VPLocalNav empty fixed" data-v-7cb4efe6 data-v-bc19262c><div class="container" data-v-bc19262c><!----><div class="VPLocalNavOutlineDropdown" style="--vp-vh:0px;" data-v-bc19262c data-v-2079d3b9><button data-v-2079d3b9>回到顶部</button><!----></div></div></div><!----><div class="VPContent" id="VPContent" data-v-7cb4efe6 data-v-46f1df28><div class="VPDoc has-aside" data-v-46f1df28 data-v-68270971><!--[--><!--]--><div class="container" data-v-68270971><div class="aside" data-v-68270971><div class="aside-curtain" data-v-68270971></div><div class="aside-container" data-v-68270971><div class="aside-content" data-v-68270971><div class="VPDocAside" data-v-68270971 data-v-578eff5a><!--[--><!--]--><!--[--><!--]--><div class="VPDocAsideOutline" role="navigation" data-v-578eff5a data-v-645a1e5e><div class="content" data-v-645a1e5e><div class="outline-marker" data-v-645a1e5e></div><div class="outline-title" role="heading" aria-level="2" data-v-645a1e5e>目录</div><nav aria-labelledby="doc-outline-aria-label" data-v-645a1e5e><span class="visually-hidden" id="doc-outline-aria-label" data-v-645a1e5e> Table of Contents for current page </span><ul class="VPDocOutlineItem root" data-v-645a1e5e data-v-a088e582><!--[--><!--]--></ul></nav></div></div><!--[--><!--]--><div class="spacer" data-v-578eff5a></div><!--[--><!--]--><!----><!--[--><!--]--><!--[--><!--]--></div></div></div></div><div class="content" data-v-68270971><div class="content-container" data-v-68270971><!--[--><!--]--><main class="main" data-v-68270971><div style="position:relative;" class="vp-doc _blog_notes_Python_" data-v-68270971><div><h1 id="必知必会基础" tabindex="-1">必知必会基础 <a class="header-anchor" href="#必知必会基础" aria-label="Permalink to &quot;必知必会基础&quot;">​</a></h1><p>1：为什么学习Python？</p><pre><code>因为他强大，上到抓外星人，下到喂小猫咪都能做。
+import{_ as n,c as e,o as t,a9 as r}from"./chunks/framework.Dm2Aprm-.js";const m=JSON.parse('{"title":"必知必会基础","description":"","frontmatter":{},"headers":[],"relativePath":"notes/Python/index.md","filePath":"notes/Python/index.md","lastUpdated":1737611781000}'),o={name:"notes/Python/index.md"},p=r(`<h1 id="必知必会基础" tabindex="-1">必知必会基础 <a class="header-anchor" href="#必知必会基础" aria-label="Permalink to &quot;必知必会基础&quot;">​</a></h1><p>1：为什么学习Python？</p><pre><code>因为他强大，上到抓外星人，下到喂小猫咪都能做。
 </code></pre><p>2：Python和Java、PHP、C、C#、C++等其他语言的对比？</p><pre><code>Java 编程语言是个简单、面向对象、分布式、解释性、健壮、安全与系统无关、可移植、高性能、多线程和动态的语言。
 
 php语法吸收了C语言、Java和Perl的特点,入门门槛较低，易于学习，使用广泛，主要适用于Web开发领域。
@@ -117,7 +91,7 @@ No12：类的方法第一个参数必须是self，而静态方法第一个参数
 
 enumerate获取键值对。
 
-os.path.join用于拼接路径，好处是可以根据系统自动选择正确的路径分隔符”/”或”\”。
+os.path.join用于拼接路径，好处是可以根据系统自动选择正确的路径分隔符”/”或”\\”。
 
 os.path.split 把路径分割成dirname和basename，返回一个元组。
 
@@ -135,7 +109,7 @@ chr()  frozenset()   list()	range()	vars()等内置函数 。
 
 打印输出函数带有颜色如下：
 
-print(&quot;\033[32;1m找的数在mid[%s]右面\033[0m&quot; % data_set[mid])。
+print(&quot;\\033[32;1m找的数在mid[%s]右面\\033[0m&quot; % data_set[mid])。
 
 sys.getfilesystemencoding() #返回将Unicode文件名转换成系统文件名的编码的名字。
 
@@ -256,7 +230,7 @@ random.randrange(start,stop,[,step])：返回一个范围在(start,stop,step)之
 
 os.access(&#39;pathfile&#39;,os.W_OK) 检验文件权限模式，输出True，False。
 
-os.path.expandvars(path)  #根据环境变量的值替换path中包含的”$name”和”${name}”。
+os.path.expandvars(path)  #根据环境变量的值替换path中包含的”$name”和”\${name}”。
 
 os.path.expanduser(path)  #把path中包含的&quot;~&quot;和&quot;~user&quot;转换成用户目录。
 
@@ -278,7 +252,7 @@ os.path.lexists  #路径存在则返回True,路径损坏也返回True。
 
 os.path.exists(path) 如果path存在，返回True；如果path不存在，返回False。
 
-os.path.basename(path) 返回path最后的文件名。如何path以／或\结尾，那么就会返回空值。即os.path.split(path)的第二个元素。
+os.path.basename(path) 返回path最后的文件名。如何path以／或\\结尾，那么就会返回空值。即os.path.split(path)的第二个元素。
 
 os.path.dirname(path) 返回path的目录。其实就是os.path.split(path)的第一个元素。
 
@@ -294,9 +268,9 @@ os.name 字符串指示当前使用平台。win-&gt;&#39;nt&#39;; Linux-&gt;&#39
 
 os.pathsep 用于分割文件路径的字符串。
 
-os.linesep 当前平台使用的行终止符，win下为\t\n,Linux下为\n。
+os.linesep 当前平台使用的行终止符，win下为\\t\\n,Linux下为\\n。
 
-os.sep 操作系统特定的路径分隔符，win下为\,Linux下为/。
+os.sep 操作系统特定的路径分隔符，win下为\\,Linux下为/。
 
 os.stat(&#39;path/filename&#39;) 获取文件/目录信息。
 
@@ -394,13 +368,13 @@ print(&quot;找到数字&quot;, data_set[mid])
 
 elif data_set[mid] &gt; data:  # 找的数在mid左面
 
-print(&quot;\033[31;1m找的数在mid[%s]左面\033[0m&quot; % data_set[mid])
+print(&quot;\\033[31;1m找的数在mid[%s]左面\\033[0m&quot; % data_set[mid])
 
 return binary_search(data_set[0:mid], data)
 
 else:  # 找的数在mid右面
 
-print(&quot;\033[32;1m找的数在mid[%s]右面\033[0m&quot; % data_set[mid])
+print(&quot;\\033[32;1m找的数在mid[%s]右面\\033[0m&quot; % data_set[mid])
 
 return binary_search(data_set[mid + 1:], data)
 
@@ -474,14 +448,14 @@ c 列表里面的每个元素都是元组。
 第二种：b = map(int, a)
 </code></pre><p>44：如何实现 “1,2,3” 变成 [‘1’,’2’,’3’] ?</p><pre><code>a = &#39;1,2,3&#39;.split(&#39;,&#39;)
 </code></pre><p>45：def func(a,b=[]) 这种写法有什么坑？</p><pre><code>函数陷阱，列表是一个可变类型，可以在任何的地方修改他那里面的数据。
-</code></pre><p>46：求结果   1 or 2  1</p><pre><code>1 and 2   2
+</code></pre><p>46：求结果 \u2028 1 or 2\u2028 1</p><pre><code>1 and 2\u2028  2
 
-1 &lt; (2==2)   False
+1 &lt; (2==2)\u2028  False
 
 1 &lt; 2 == 2  True
-</code></pre><p>47：求结果。</p><pre><code>[ i % 2 for i in range(10) ]   [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]。
+</code></pre><p>47：求结果。</p><pre><code>[ i % 2 for i in range(10) ]\u2028  [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]。
 
-( i % 2 for i in range(10) )  &lt;generator object`&lt;genexpr&gt;` at 0x000000000C0EA938&gt;。
+( i % 2 for i in range(10) )  &lt;generator object\`&lt;genexpr&gt;\` at 0x000000000C0EA938&gt;。
 </code></pre><p>48：什么是正则的贪婪匹配？</p><pre><code>区别重点在：.* 和 .*？。
 
 非贪婪格式：xx.*?xx  。
@@ -498,7 +472,7 @@ match：尝试从字符串起始位置开始匹配如果没有就会返回None�
 可以在pycharm里面的settings里面手动的添加第三方模块。
 
 现在，让我们来安装一个第三方库——Python Imaging Library，这是Python下非常强大的处理图像的工具库。一般来说，第三方库都会在Python官方的pypi.python.org网站注册，要安装一个第三方库，必须先知道该库的名称，可以在官网或者pypi上搜索，比如Python Imaging Library的名称叫PIL在命令提示符窗口下尝试运行pip，如果Windows提示未找到命令，可以重新运行安装程序添加pip。如果你正在使用Windows，确保安装时勾选了pip和Add python.exe to Path。如果你正在使用Mac或Linux，安装pip本身这个步骤就可以跳过了。在Python中，安装第三方模块，是通过setuptools这个工具完成的。Python有两个封装了setuptools的包管理工具：easy_install和pip。目前官方推荐使用pip
-</code></pre><p>52：一行代码实现9*9乘法表？</p><pre><code>print(&#39;\n&#39;.join([&#39; &#39;.join([&#39;%s*%s=%-2s&#39; % (y,x,x*y) for y in range(1,1+x)]) for x in range(1,10)]))
+</code></pre><p>52：一行代码实现9*9乘法表？</p><pre><code>print(&#39;\\n&#39;.join([&#39; &#39;.join([&#39;%s*%s=%-2s&#39; % (y,x,x*y) for y in range(1,1+x)]) for x in range(1,10)]))
 </code></pre><p>53：filter、map、reduce的作用？</p><pre><code>filter是筛选出其中满足某个条件的那些数据，字面意思是过滤，比如挑出列表中所有奇数。
 
 reduce是用某种方法依次把所有数据丢进去最后得到一个结果，字面意思是化简，比如计算一个	列表所有数的和的过程，就是维持一个部分和然后依次把每个数加进去。
@@ -694,9 +668,9 @@ v4 = 0 and 2 or 1        1
 
 v3 = 0 and 2 and      0
 
-v2 = 1 and 3              3
+v2 = 1 and 3\u2028             3
 
-v1 = 1 or 3            1
+v1 = 1 or 3\u2028           1
 </code></pre><p>75：什么是pickling和unpickling？</p><pre><code>Pickle模块读入任何Python对象，将它们转换成字符串，然后使用dump函数将其转储到一个文件中——这个过程叫做pickling。
 
 反之从存储的字符串文件中提取原始Python对象的过程，叫做unpickling。
@@ -969,8 +943,4 @@ print isinstance(a,list)  # True
 </code></pre><p>93： 什么是鸭子类型？</p><pre><code>在鸭子类型中，关注的不是对象的类型本身，而是他如何使用的。例如，在不适用鸭子类型的语言中，我们可以编写一个函数，它接受一个类型为鸭的对象，并调用它的走和叫方法。在使用鸭子类型的语言中，这样的一个函数可以接受一个任意类型的对象，并调用它的走和叫方法。
 </code></pre><p>94： @classmethod和@staticmethod</p><pre><code>@classmethod修饰符对应的函数不需要实例化，不需要self参数，第一个参数需要是表示自身类的cls参数，cls参数可以用来调用类的属性，类的方法，实例化对象等。@staticmethod返回函数的静态方法，该方法不强制要求传递参数
 </code></pre><p>95：谈一谈python中的元类</p><pre><code>一般来说，我们都是在代码里定义类，用定义的类来创建实例。而使用元类，步骤又是同，定义元类，用元类创建类，再使用创建出来的类来创建实例。元类的主要目的就是为了当创建类时能够自动地改变类。
-</code></pre></div></div></main><footer class="VPDocFooter" data-v-68270971 data-v-f4c4c115><!--[--><!--[--><!--[--><!--[--><div class="doc-comments"><!----></div><!--]--><!--]--><!--]--><!--]--><div class="edit-info" data-v-f4c4c115><!----><div class="last-updated" data-v-f4c4c115><p class="VPLastUpdated" data-v-f4c4c115 data-v-270fbc60>最后更新于: <time datetime="2025-01-23T05:56:21.000Z" data-v-270fbc60></time></p></div></div><!----></footer><!--[--><!--[--><!--[--><div style="display:none;" class="m-doc-footer" data-v-694eb995><div class="m-doc-footer-message" data-v-694eb995><img class="visitor" src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.vitepress-nav-template./notes/Python/" title="当前页面累计访问数" onerror="this.style.display=&#39;none&#39;" data-v-694eb995><p data-v-694eb995>用心记录每一份收获</p></div><p class="m-doc-footer-copyright" data-v-694eb995>Copyright © 2024-present Pixiu</p></div><!--]--><!--]--><!--]--></div></div></div><!--[--><!--]--></div></div><footer class="VPFooter" data-v-7cb4efe6 data-v-9980e494><div class="container" data-v-9980e494><p class="message" data-v-9980e494>用心记录每一份收获</p><p class="copyright" data-v-9980e494>Copyright © 2024-present Pixiu</p></div></footer><!--[--><!--]--></div></div>
-    <script>window.__VP_HASH_MAP__=JSON.parse("{\"index.md\":\"BIRXmsPO\",\"nav_index.md\":\"CqECaJek\",\"test.md\":\"MnhjW8IA\",\"notes_javascript_advance.md\":\"BP-r6e94\",\"notes_index.md\":\"CbEI9-wc\",\"notes_sanji_index.md\":\"RiDARq2b\",\"notes_python_index.md\":\"Bzu04W0n\",\"notes_cyber_index.md\":\"CvhKjYjr\"}");window.__VP_SITE_DATA__=JSON.parse("{\"lang\":\"zh-CN\",\"dir\":\"ltr\",\"title\":\"貔貅的小站\",\"description\":\"记录学习笔记与前端开发心得\",\"base\":\"/blog/\",\"head\":[],\"router\":{\"prefetchLinks\":true},\"appearance\":true,\"themeConfig\":{\"i18nRouting\":false,\"logo\":\"/logo.png\",\"nav\":[{\"text\":\"首页\",\"link\":\"/\"},{\"text\":\"前端导航\",\"link\":\"/nav/\"},{\"text\":\"学习笔记\",\"items\":[{\"text\":\"Vue 系列\",\"link\":\"/notes/vue/\"},{\"text\":\"TypeScript 系列\",\"link\":\"/notes/typescript/\"},{\"text\":\"性能优化\",\"link\":\"/notes/performance/\"},{\"text\":\"工程化实践\",\"link\":\"/notes/engineering/\"}]}],\"sidebar\":{},\"outline\":{\"level\":\"deep\",\"label\":\"目录\"},\"socialLinks\":[],\"footer\":{\"message\":\"用心记录每一份收获\",\"copyright\":\"Copyright © 2024-present Pixiu\"},\"lastUpdated\":{\"text\":\"最后更新于\",\"formatOptions\":{\"dateStyle\":\"short\",\"timeStyle\":\"medium\"}},\"docFooter\":{\"prev\":\"上一篇\",\"next\":\"下一篇\"},\"returnToTopLabel\":\"回到顶部\",\"sidebarMenuLabel\":\"菜单\",\"darkModeSwitchLabel\":\"主题\",\"lightModeSwitchTitle\":\"切换到浅色模式\",\"darkModeSwitchTitle\":\"切换到深色模式\",\"visitor\":{\"badgeId\":\"maomao1996.vitepress-nav-template\"},\"comment\":{\"repo\":\"maomao1996/vitepress-nav-template\",\"repoId\":\"R_kgDOJC09Jg\",\"category\":\"Announcements\",\"categoryId\":\"DIC_kwDOJC09Js4Cekn0\"}},\"locales\":{},\"scrollOffset\":134,\"cleanUrls\":true}");</script>
-    
-  </body>
-</html>
+</code></pre>`,203),a=[p];function s(i,d,c,l,h,_){return t(),e("div",null,a)}const u=n(o,[["render",s]]);export{m as __pageData,u as default};
