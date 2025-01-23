@@ -12,3 +12,7 @@ layout: doc
 ### JavaScript 进阶
 
 - [JavaScript 进阶知识点](/notes/JavaScript/advance.md)
+
+### Python
+
+- [Python 基础知识](/notes/Python/index.md)
