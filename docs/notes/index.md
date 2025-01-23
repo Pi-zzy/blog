@@ -11,4 +11,4 @@ layout: doc
 
 ### JavaScript 进阶
 
-- [JavaScript 进阶知识点](JavaScript\advance.md)
+- [JavaScript 进阶知识点](/notes/JavaScript/advance.md)
